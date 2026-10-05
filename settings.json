@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": owo1-H3TW.aternos.me:11419,
-    "port": 25565,
+    "port":11419,
     "version": "",
     "try-creative": false
   },
